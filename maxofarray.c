@@ -11,6 +11,7 @@ void main()
     }
     for(i=0;i<N;i++)
     {
+        max=a[0];
         if(a[i]>max)
         {
             max=a[i];
